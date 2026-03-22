@@ -5,7 +5,7 @@ This project analyzes maintenance operations for heavy mining machinery serviced
 
 The goal of the project is to monitor equipment maintenance performance using operational data and visualize key metrics through an Excel dashboard.
 
-## Key Metrics Analyzed
+## Key Metrics Analysed
 - Machine downtime
 - Repair turnaround time
 - Maintenance frequency
