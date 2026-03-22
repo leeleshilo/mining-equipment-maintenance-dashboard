@@ -1,4 +1,4 @@
-# mining-equipment-maintenance-dashboard
+# Mining Equipment Maintenance Dashboard
 
 
 This project analyzes maintenance operations for heavy mining machinery serviced by BKE Enterprises.
