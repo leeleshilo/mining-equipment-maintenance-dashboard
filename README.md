@@ -1,7 +1,7 @@
 # Mining Equipment Maintenance Dashboard
 
 
-This project analyzes maintenance operations for heavy mining machinery serviced by BKE Enterprises.
+This project analyses maintenance operations for heavy mining machinery serviced by BKE Enterprises.
 
 The goal of the project is to monitor equipment maintenance performance using operational data and visualize key metrics through an Excel dashboard.
 
